@@ -66,4 +66,4 @@ graph LR
 
 | Nombre | Usuario de GitHub |
 |---|---|
-| TU-NOMBRE | [@dniel-07](https://github.com/dniel-07) |
+| Daniel Berrios | [@dniel-07](https://github.com/dniel-07) |
